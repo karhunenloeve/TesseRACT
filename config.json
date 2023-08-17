@@ -1,0 +1,6 @@
+{
+  "resultFiles": "results",
+  "createPDF": true,
+  "createTXT": true,
+  "deleteIMG": true
+}
